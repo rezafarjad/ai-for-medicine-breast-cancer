@@ -1,16 +1,28 @@
-ai-for-medicine-breast-cancer/
+# AI for Medicine – Breast Cancer Classification
 
-│── README.md
+This project applies machine learning techniques to classify breast tumors as malignant or benign using the Breast Cancer Wisconsin dataset.
 
-│── notebook/
+## Objectives
+- Build a reproducible AI pipeline in Google Colab
+- Compare machine learning models
+- Evaluate performance using ROC-AUC, confusion matrix, and accuracy
+- Discuss ethical and clinical relevance
 
-  │   └── breast_cancer_project.ipynb
+## Tools
+- Python
+- Scikit-learn
+- Google Colab
+- GitHub
 
-│── report/
+## Models
+- Logistic Regression
+- Random Forest
 
-│── images/
-
-│── requirements.txt
+## Repository Structure
+- notebook/: Colab notebook
+- report/: final PDF report
+- images/: plots and figures
 
 ## Author
 Reza Farjadnia
+
