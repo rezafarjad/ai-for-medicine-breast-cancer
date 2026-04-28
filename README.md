@@ -4,7 +4,7 @@ ai-for-medicine-breast-cancer/
 
 │── notebook/
 
-│   └── breast_cancer_project.ipynb
+  │   └── breast_cancer_project.ipynb
 
 │── report/
 
